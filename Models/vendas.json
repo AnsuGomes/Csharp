@@ -1,5 +1,12 @@
-{
+[
+  {
   "Id": 1,
   "Produto": "Material de escritorio",
   "Preco": 25.00
-}
+},
+  {
+    "Id": 2,
+    "Produto": "Computador",
+    "Preco": 250.00 
+  }
+]  
